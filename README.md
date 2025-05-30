@@ -1,4 +1,4 @@
-# Data Scientist Internship
+# Master Research Thesis
 ## Implementation of Football Analystics in Data Revolution
 ### Using **Statsbomb** [https://statsbomb.com]
 
