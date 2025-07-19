@@ -1,5 +1,5 @@
 
-## CONCLUSION
+# CONCLUSION
 
 - This thesis provides a research template with Pass Classification and Sequence, I state that K-Means Clustering Models and Sequential Neural Network Model trained suitable for evaluating Pass Count,
 - Likely Passes, we found less evidence in favour of their Passes Predictability by Team Ball Movement. The Result of  Passes Predictability is 0.11 to 0.55%.
