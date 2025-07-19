@@ -21,15 +21,6 @@
 - DataFrame of Each Team, Pass Count, Likely Passes and Predictability
 <img width="533" height="384" alt="image" src="https://github.com/user-attachments/assets/49101eee-119d-45e7-b4a8-6d12ca991e4b" />
 
-- Passes DataFrame between outcome, x, y, end_x, end_y and angle
-	outcome	x	y	end_x	end_y	length	angle
-0	1	61.0	40.1	47.7	49.4	16.228987	2.531372
-1	1	50.4	50.5	80.5	25.2	39.320477	-0.698971
-2	0	80.3	25.7	71.0	53.4	29.219515	1.894711
-3	1	49.1	26.7	36.0	9.9	21.303755	-2.233075
-4	0	35.6	9.2	40.3	11.0	5.032892	0.365747
-
-
 - Plot Football Match Passes Location
 <img width="381" height="265" alt="image" src="https://github.com/user-attachments/assets/c3e15e62-4492-4abc-b1cf-17dc7516fc98" />
 
