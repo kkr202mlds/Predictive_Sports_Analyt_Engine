@@ -1,8 +1,7 @@
-# Master Research Thesis
-## Implementation of Football Analystics in Data Revolution
-### Using **Statsbomb** [https://statsbomb.com]
+# Implementation of Football Analystics in Data Revolution
+## Using **Statsbomb** [https://statsbomb.com]
 
-## ABSTRACT
+# ABSTRACT
 - Football is the most popular sport in the world, watched by kids, teenagers and
 adults. As Football becomes more popular by the minute, teams are constantly
 looking for new creative ways to improve their performance and compete on a
