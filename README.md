@@ -1,4 +1,4 @@
-# Developed sequential time-series feature sets from historical athletic match logs to forecast sports outcomes. Evaluated LSTM network performance against Logistic Regression and Random Forest models using AUC-ROC optimization and log-loss reduction metrics.
+# Predictive Sports Analytics Engine | Python, LSTM, Scikit-learn.
 
 # ABSTRACT
 - Football is the most popular sport in the world, watched by kids, teenagers and
