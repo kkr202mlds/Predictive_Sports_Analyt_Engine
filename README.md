@@ -1,5 +1,4 @@
-# Implementation of Football Analystics in Data Revolution
-## Using **Statsbomb** [https://statsbomb.com]
+# Developed sequential time-series feature sets from historical athletic match logs to forecast sports outcomes. Evaluated LSTM network performance against Logistic Regression and Random Forest models using AUC-ROC optimization and log-loss reduction metrics.
 
 # ABSTRACT
 - Football is the most popular sport in the world, watched by kids, teenagers and
